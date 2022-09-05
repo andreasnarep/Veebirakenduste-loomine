@@ -1,2 +1,3 @@
 # Veebirakenduste-loomine
 Veebirakenduste loomine esimene repo
+muudetud githubis...
